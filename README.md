@@ -38,4 +38,6 @@ This project explores the real estate market in Brazil using a dataset of home l
 <img width="597" height="455" alt="image" src="https://github.com/user-attachments/assets/7ba76798-3143-430c-a124-b02d52ec4678" />
 
 
+
+
 **Author:** Dhanush DS
