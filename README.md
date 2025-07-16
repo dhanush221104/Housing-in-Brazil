@@ -13,8 +13,7 @@ This project explores the real estate market in Brazil using a dataset of home l
 ## 🗂️ Contents
 
 - `Housing_in_Brazil.ipynb`: Complete Jupyter Notebook with code and visualizations
-- `images/`: Folder used to store generated plots (optional if you saved them)
-- Datasets: CSV files used for analysis (`brasil-real-estate-1.csv`, `brasil-real-estate-2.csv` – not uploaded due to size/privacy)
+- Datasets: .txt files with CSV used for analysis (`brazil-housing-1.txt`, `brasil-housing-2.txt` – not uploaded due to privacy)
 
 ## 📊 Tools Used
 
